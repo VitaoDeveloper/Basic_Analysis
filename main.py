@@ -1,9 +1,6 @@
 # Análise de Dados com Pandas
 #
-# Versão simplificada do projeto original: aqui usamos apenas a biblioteca
-# Pandas para explorar a base de clientes de uma instituição financeira.
-# Sem Scikit Learn, sem Plotly, sem OpenAI API e sem dotenv - só análise
-# exploratória de dados básica.
+# Versão simplificada do projeto original: https://github.com/VitaoDeveloper/AI_DataAnalysis
 
 import pandas as pd
 
